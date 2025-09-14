@@ -1,0 +1,9 @@
+bayesflow #version of BayesFlow is 2.0.5
+matplotlib
+numpy
+pandas
+scipy
+tensorflow
+tqdm
+jupyter
+notebook
